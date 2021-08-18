@@ -1,2 +1,2 @@
 # Network-Engagement-Project
-Putting all the knowledge together of Pen Testing, SIEM, and System Administration for this last presentation.
+In this one we are using the knowledge and tools we have to work as a Network Analyse to scan and observe the traffic going in and out of the network. In using Wireshark and _____, we were able to identify what was going on in the network during business hours. We collected all the data, put them onto a presentation, and were able to point out the differences between normal and malicious traffic on display.
